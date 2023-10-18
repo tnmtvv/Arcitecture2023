@@ -1,5 +1,5 @@
 # _Диаграмма классов_
-![Текст с описанием картинки](CLI_MatveevaNafikova.svg)
+![Текст с описанием картинки](CLI_diagram.svg)
 # _Команда_
 1. [Матвеева Таня](https://github.com/tnmtvv)
 2. [Нафикова Лиана](https://github.com/Liana2707)
