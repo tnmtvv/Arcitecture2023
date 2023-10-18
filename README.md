@@ -1,3 +1,3 @@
 # Arcitecture2023
 
-1. [CLI Architecture](.\CLI)
+1. [CLI Architecture](./CLI)
